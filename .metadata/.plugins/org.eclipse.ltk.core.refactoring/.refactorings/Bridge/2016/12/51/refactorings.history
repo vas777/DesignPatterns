@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;DVDRemote&apos; to &apos;DVDDevice&apos;&#x0A;- Original project: &apos;Bridge&apos;&#x0A;- Original element: &apos;DVDRemote&apos;&#x0A;- Renamed element: &apos;DVDDevice&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DVDRemote&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{DVDRemote.java[DVDRemote" matchStrategy="1" name="DVDDevice" qualified="false" references="true" similarDeclarations="false" stamp="1481655464847" textual="false" version="1.0"/>
+</session>

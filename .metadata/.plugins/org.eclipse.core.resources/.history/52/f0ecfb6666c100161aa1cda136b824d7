@@ -1,0 +1,30 @@
+
+public class DVDDevice extends EntertainmentDevice {
+	
+	 public DVDDevice(int newDeviceState,int maxVolumeSetting) {
+		 
+		 deviceState=newDeviceState;
+		 
+		 maxSetting=maxVolumeSetting;
+		
+	}
+
+	@Override
+	public void buttonFivePressed() {
+		System.out.println("Channel Down");
+		
+		deviceState--;
+		
+		
+	}
+
+	@Override
+	public void buttonSixPressed() {
+		System.out.println("Channel Down");
+		
+		deviceState--;
+		
+		
+	}
+
+}

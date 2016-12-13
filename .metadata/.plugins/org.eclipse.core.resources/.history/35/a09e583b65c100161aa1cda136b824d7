@@ -1,0 +1,22 @@
+
+public class DVDRemote extends EntertainmentDevice {
+
+	@Override
+	public void buttonFivePressed() {
+		System.out.println("Channel Down");
+		
+		deviceState--;
+		
+		
+	}
+
+	@Override
+	public void buttonSixPressed() {
+		System.out.println("Channel Down");
+		
+		deviceState--;
+		
+		
+	}
+
+}
